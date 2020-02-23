@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/rcubeception/static/js/main.dfe9bc11.chunk.js",
+    "main.js.map": "/rcubeception/static/js/main.dfe9bc11.chunk.js.map",
+    "runtime-main.js": "/rcubeception/static/js/runtime-main.e1086353.js",
+    "runtime-main.js.map": "/rcubeception/static/js/runtime-main.e1086353.js.map",
+    "static/js/2.b349686c.chunk.js": "/rcubeception/static/js/2.b349686c.chunk.js",
+    "static/js/2.b349686c.chunk.js.map": "/rcubeception/static/js/2.b349686c.chunk.js.map",
+    "index.html": "/rcubeception/index.html",
+    "precache-manifest.014284a369e1bbeb2e567cf7c2e5e6a7.js": "/rcubeception/precache-manifest.014284a369e1bbeb2e567cf7c2e5e6a7.js",
+    "service-worker.js": "/rcubeception/service-worker.js",
+    "static/js/2.b349686c.chunk.js.LICENSE.txt": "/rcubeception/static/js/2.b349686c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1086353.js",
+    "static/js/2.b349686c.chunk.js",
+    "static/js/main.dfe9bc11.chunk.js"
+  ]
+}
