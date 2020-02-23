@@ -8,15 +8,12 @@ type CubeProps = {
 };
 
 const rotateAnim = keyframes`
-  0% {
-      transform: rotate3d(1, 1, 1, 360deg);
-    }
-    50% {
-      transform: rotate3d(1, 1, 1, 180deg);
-    }
-    100% {
-      transform: rotate3d(0, 0, 0, 0);
-    }
+  from {
+    transform: rotateX(0) rotateY(0) rotateZ(0);
+  }
+  to {
+    transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+  }
 `;
 
 const CubeWrapper = styled.div<CubeProps>`
