@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Preview
+### Hosted on Github Pages
 
-[Homepage](http://fdograph.github.io/cubeception)
+- [Preview](http://fdograph.github.io/cubeception)
