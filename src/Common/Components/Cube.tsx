@@ -9,10 +9,10 @@ type CubeProps = {
 
 const rotateAnim = keyframes`
   from {
-    transform: rotateX(0) rotateY(0) rotateZ(0);
+    transform: rotateX(-15deg) rotateY(0) rotateZ(0);
   }
   to {
-    transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+    transform: rotateX(-15deg) rotateY(360deg) rotateZ(0);
   }
 `;
 

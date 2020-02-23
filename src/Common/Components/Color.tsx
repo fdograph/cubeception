@@ -2,25 +2,25 @@ import styled, { keyframes } from 'styled-components';
 
 const bgAnim = keyframes`
   0% {
-    background-color: #0f0;
+    background-color: hsla(0, 100%, 50%, 0.8);
   }
   16.6% {
-    background-color: #ff0;
+    background-color: hsla(60, 100%, 50%, 0.8);
   }
   33% {
-    background-color: #f00;
+    background-color: hsla(120, 100%, 50%, 0.8);
   }
   49.9% {
-    background-color: #f0f;
+    background-color: hsla(180, 100%, 50%, 0.8);
   }
   66.5% {
-    background-color: #00f;
+    background-color: hsla(240, 100%, 50%, 0.8);
   }
   83.1% {
-    background-color: #0ff;
+    background-color: hsla(300, 100%, 50%, 0.8);
   }
   100% {
-    background-color: #0f0;
+    background-color: hsla(360, 100%, 50%, 0.8);
   }
 `;
 
@@ -31,7 +31,7 @@ const Color = styled.div`
   height: 100%;
 
   animation-name: ${bgAnim};
-  animation-duration: 5s;
+  animation-duration: 4s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
 `;

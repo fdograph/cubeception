@@ -24,31 +24,38 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>Cubeception - CRA</title>
+    <title>Cubeception React App</title>
     <!-- Place this tag in your head or just before your close body tag. -->
     <script async defer src="https://buttons.github.io/buttons.js"></script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <!-- Place this tag where you want the button to render. -->
-    <a
-      class="github-button"
-      href="https://github.com/fdograph"
-      data-color-scheme="no-preference: light; light: dark; dark: dark;"
-      data-size="large"
-      aria-label="Follow @fdograph on GitHub"
-      >Follow @fdograph</a
-    >
-    <!-- Place this tag where you want the button to render. -->
-    <a
-      class="github-button"
-      href="https://github.com/fdograph/cubeception"
-      data-color-scheme="no-preference: light; light: dark; dark: dark;"
-      data-icon="octicon-star"
-      data-size="large"
-      aria-label="Star fdograph/cubeception on GitHub"
-      >Star</a
-    >
+    <style>
+      #extras {
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+    </style>
+    <div id="extras">
+      <a
+        class="github-button"
+        href="https://github.com/fdograph"
+        data-color-scheme="no-preference: light; light: dark; dark: dark;"
+        data-size="large"
+        aria-label="Follow @fdograph on GitHub"
+        >Follow @fdograph</a
+      >
+      <a
+        class="github-button"
+        href="https://github.com/fdograph/cubeception"
+        data-color-scheme="no-preference: light; light: dark; dark: dark;"
+        data-icon="octicon-star"
+        data-size="large"
+        aria-label="Star fdograph/cubeception on GitHub"
+        >Star</a
+      >
+    </div>
     <div id="root"></div>
     <!--
       This HTML file is a template.

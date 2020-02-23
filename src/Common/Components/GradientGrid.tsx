@@ -7,10 +7,10 @@ const delayedAnimation = () => {
   let str = '';
 
   for (let i = 1; i <= 25; i++) {
-    const delay = Math.floor(Math.random() * Math.floor(i * 1000)) * -1;
+    // const delay = Math.floor(Math.random() * Math.floor(i * 1000)) * -1;
     str += `
       &:nth-child(${i}) {
-        animation-delay: ${delay}ms;
+        animation-delay: ${i * 100}ms;
       }
     `;
   }
