@@ -1,6 +1,6 @@
 {
   "name": "@fdograph/cubeception",
-  "homepage": "http://fdograph.github.io/rcubeception",
+  "homepage": "http://fdograph.github.io/cubeception",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
@@ -21,7 +21,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

@@ -1,6 +1,6 @@
 import React from 'react';
 import styled, { css } from 'styled-components';
-import Gradient from './Gradient';
+// import Gradient from './Gradient';
 import Color from './Color';
 
 const delayedAnimation = () => {
