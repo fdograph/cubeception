@@ -1,13 +1,11 @@
 import React from 'react';
 import styled, { css } from 'styled-components';
-// import Gradient from './Gradient';
 import Color from './Color';
 
 const delayedAnimation = () => {
   let str = '';
 
   for (let i = 1; i <= 25; i++) {
-    // const delay = Math.floor(Math.random() * Math.floor(i * 1000)) * -1;
     str += `
       &:nth-child(${i}) {
         animation-delay: ${i * 100}ms;
