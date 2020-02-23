@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/cubeception/static/js/main.1f7b1c99.chunk.js",
-    "main.js.map": "/cubeception/static/js/main.1f7b1c99.chunk.js.map",
+    "main.js": "/cubeception/static/js/main.c1cc28f3.chunk.js",
+    "main.js.map": "/cubeception/static/js/main.c1cc28f3.chunk.js.map",
     "runtime-main.js": "/cubeception/static/js/runtime-main.e819ed0b.js",
     "runtime-main.js.map": "/cubeception/static/js/runtime-main.e819ed0b.js.map",
     "static/js/2.d4109e82.chunk.js": "/cubeception/static/js/2.d4109e82.chunk.js",
     "static/js/2.d4109e82.chunk.js.map": "/cubeception/static/js/2.d4109e82.chunk.js.map",
     "index.html": "/cubeception/index.html",
-    "precache-manifest.f184e1255c8afa66a29f06180175ef21.js": "/cubeception/precache-manifest.f184e1255c8afa66a29f06180175ef21.js",
+    "precache-manifest.88046b0058db047d1c8f74821c085a69.js": "/cubeception/precache-manifest.88046b0058db047d1c8f74821c085a69.js",
     "service-worker.js": "/cubeception/service-worker.js",
     "static/js/2.d4109e82.chunk.js.LICENSE.txt": "/cubeception/static/js/2.d4109e82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e819ed0b.js",
     "static/js/2.d4109e82.chunk.js",
-    "static/js/main.1f7b1c99.chunk.js"
+    "static/js/main.c1cc28f3.chunk.js"
   ]
 }
