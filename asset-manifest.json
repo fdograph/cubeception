@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/cubeception/static/js/main.e49d73db.chunk.js",
-    "main.js.map": "/cubeception/static/js/main.e49d73db.chunk.js.map",
+    "main.js": "/cubeception/static/js/main.b0094674.chunk.js",
+    "main.js.map": "/cubeception/static/js/main.b0094674.chunk.js.map",
     "runtime-main.js": "/cubeception/static/js/runtime-main.e819ed0b.js",
     "runtime-main.js.map": "/cubeception/static/js/runtime-main.e819ed0b.js.map",
     "static/js/2.d4109e82.chunk.js": "/cubeception/static/js/2.d4109e82.chunk.js",
     "static/js/2.d4109e82.chunk.js.map": "/cubeception/static/js/2.d4109e82.chunk.js.map",
     "index.html": "/cubeception/index.html",
-    "precache-manifest.ea295b55e792bf44200261c59e363a68.js": "/cubeception/precache-manifest.ea295b55e792bf44200261c59e363a68.js",
+    "precache-manifest.5755f68a94ee23ff5b9e9316eb57afd6.js": "/cubeception/precache-manifest.5755f68a94ee23ff5b9e9316eb57afd6.js",
     "service-worker.js": "/cubeception/service-worker.js",
     "static/js/2.d4109e82.chunk.js.LICENSE.txt": "/cubeception/static/js/2.d4109e82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e819ed0b.js",
     "static/js/2.d4109e82.chunk.js",
-    "static/js/main.e49d73db.chunk.js"
+    "static/js/main.b0094674.chunk.js"
   ]
 }
