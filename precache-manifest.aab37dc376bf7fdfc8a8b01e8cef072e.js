@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b69c26f8a7b139171543a1ad1ca5a1ab",
+    "revision": "dd3238f0b5db871c2a7e4838c822aa7d",
     "url": "/cubeception/index.html"
   },
   {
