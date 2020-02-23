@@ -1,6 +1,10 @@
 {
   "name": "@fdograph/cubeception",
   "homepage": "http://fdograph.github.io/cubeception",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fdograph/cubeception.git"
+  },
   "version": "0.0.1",
   "private": true,
   "dependencies": {
