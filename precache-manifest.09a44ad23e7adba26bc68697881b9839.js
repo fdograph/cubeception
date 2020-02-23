@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd3238f0b5db871c2a7e4838c822aa7d",
+    "revision": "fb10d955c41517db591082bb535fb324",
     "url": "/cubeception/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cubeception/static/js/2.d4109e82.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8767e82d519d5c3c1ffd",
-    "url": "/cubeception/static/js/main.b0094674.chunk.js"
+    "revision": "209a4fbf9cc25c16b648",
+    "url": "/cubeception/static/js/main.1d83cddf.chunk.js"
   },
   {
     "revision": "23ea332558462830d6e3",
