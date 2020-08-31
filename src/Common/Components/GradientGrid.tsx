@@ -8,7 +8,7 @@ const delayedAnimation = () => {
   for (let i = 1; i <= 25; i++) {
     str += `
       &:nth-child(${i}) {
-        animation-delay: -${i * 100}ms;
+        animation-delay: -${i * 120}ms;
       }
     `;
   }

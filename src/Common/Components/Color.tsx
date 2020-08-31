@@ -31,8 +31,8 @@ const Color = styled.div`
   height: 100%;
 
   animation-name: ${bgAnim};
-  animation-duration: 4s;
-  animation-timing-function: linear;
+  animation-duration: 5s;
+  animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
 `;
 
